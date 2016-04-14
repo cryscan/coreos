@@ -1,0 +1,2 @@
+# coreos
+An operating system.
